@@ -1,4 +1,4 @@
 My First News App
 =================
 
-by [Will Craft](www.twitter.com/craftworksxyz)
+by [Will Craft](https://twitter.com/craftworksxyz)
